@@ -1,3 +1,4 @@
 [
-  "test_checker.py::TestCase::test_functio"
+  "test_checker.py::TestCase::test_password_length",
+  "test_checker.py::TestCase::test_special_characters"
 ]
